@@ -1,27 +1,16 @@
 ## Hi there, I'm Ali Farhadnia 👋
-
-
-
+# 💫 About Me:
 I'm a golang developer with experience in the field of computer reservation systems (CRS) ans some experience in energy monitoring,.
 
-### Skills
-    - Golang
-    - Computer Reservation System (CRS)
-    - Energy Monitoring
-### Work Experience
 
-__Self-employed(CRS)__\
-Software Developer\
-June 2022 - Present (11 months)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-farhadnia) 
 
-__TiSS(Energy Monitoring Company)__\
-Golang Developer\
-February 2022 - July 2022 (6 months)
- 
- ## Contact
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Farhadnia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-    Email: ali.farhadnia.80@gmail.com
-    Linkedin: https://www.linkedin.com/in/ali-farhadnia/
+---
 
-Feel free to reach out to me for any inquiries or collaborations related to golang development, CRS or energy monitoring!
- 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
