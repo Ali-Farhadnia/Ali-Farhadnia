@@ -1,6 +1,6 @@
 ## Hi there, I'm Ali Farhadnia 👋
 # 💫 About Me:
-I'm a golang developer with experience in the field of computer reservation systems (CRS) ans some experience in energy monitoring,.
+I'm a golang developer with experience in the field of computer reservation systems (CRS) and some experience in energy monitoring,.
 
 
 ## 🌐 Socials:
