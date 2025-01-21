@@ -6,6 +6,7 @@ As a backend developer with over 3 years of experience, I'm focused on building 
 
 ## 🌐 Connect with Me:
 
+- [Website](https://alifarhadnia.com/)
 - [LinkedIn](https://www.linkedin.com/in/ali-farhadnia)
 - [Medium](https://medium.com/@ali-farhadnia)
 - [Dev.to](https://dev.to/ali_farhadnia)
